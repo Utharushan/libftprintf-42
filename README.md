@@ -74,6 +74,10 @@ src/
   get_next_line/
     get_next_line.c
     get_next_line_utils.c
+inc/
+  libft.h
+  ft_printf.h
+  get_next_line.h
 Makefile
 README.md
 ```
@@ -91,7 +95,7 @@ To compile and use this library, you will need:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/utharushan/libftprintf.git
+    git clone https://github.com/Utharushan/libftprintf-42.git
     cd libftprintf
     ```
 

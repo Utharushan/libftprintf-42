@@ -96,7 +96,7 @@ To compile and use this library, you will need:
 
     ```bash
     git clone https://github.com/Utharushan/libftprintf-42.git
-    cd libftprintf
+    cd libftprintf-42
     ```
 
 2. Build the static library `libft.a`:

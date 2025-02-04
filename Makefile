@@ -52,7 +52,11 @@ SRCS		=	src/libft/ft_str/ft_atoi.c \
 				src/libft/ft_lst/ft_lstlast.c \
 				src/libft/ft_lst/ft_lstmap.c \
 				src/libft/ft_lst/ft_lstnew.c \
-				src/libft/ft_lst/ft_lstsize.c 
+				src/libft/ft_lst/ft_lstsize.c \
+				src/ft_printf/ft_printf.c \
+				src/ft_printf/ft_printf_utils.c \
+				src/get_next_line/get_next_line.c \
+				src/get_next_line/get_next_line_utils.c
 OBJS		= $(SRCS:.c=.o)
 
 CC			= cc

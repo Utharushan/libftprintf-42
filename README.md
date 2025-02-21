@@ -43,6 +43,7 @@ src/
       ft_putstr_fd.c
     ft_str/
       ft_atoi.c
+      ft_atof.c
       ft_itoa.c
       ft_split.c
       ft_strchr.c

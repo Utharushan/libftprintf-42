@@ -11,6 +11,7 @@
 # **************************************************************************** #
 
 SRCS		=	src/libft/ft_str/ft_atoi.c \
+				src/libft/ft_str/ft_atof.c \
 				src/libft/ft_mem/ft_bzero.c \
 				src/libft/ft_mem/ft_calloc.c \
 				src/libft/ft_is/ft_isalnum.c \

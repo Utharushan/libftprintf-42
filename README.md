@@ -26,6 +26,7 @@ src/
       ft_isascii.c
       ft_isdigit.c
       ft_isprint.c
+      ft_isspace.c
       ft_tolower.c
       ft_toupper.c
     ft_mem/
